@@ -18,7 +18,8 @@ This project aims to ensure your Discord profile remains active and online by au
 First, clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/zakariasalhi12/Discord-Online-Forever.git cd Discord-Online-Forever
+git clone https://github.com/zakariasalhi12/Discord-Online-Forever.git
+cd Discord-Online-Forever
 ```
 
 ### Step 2: Install Dependencies
